@@ -1,6 +1,6 @@
 **Vaja 1 – Identifikacija kompleksnega problema in tržne priložnosti**
 
-**1. Problem Statement**
+**1. Problem **
 
 V zadnjih letih se je število kibernetskih napadov, predvsem phishing napadov, drastično povečalo. Napadalci uporabljajo vedno bolj sofisticirane metode socialnega inženiringa, ki pogosto uspešno zavajajo tudi tehnološko bolj podkovane uporabnike.
 Phishing napadi so zasnovani tako, da posnemajo legitimne organizacije (banke, dostavne službe, socialna omrežja) in uporabnike prepričajo, da razkrijejo občutljive podatke, kot so gesla, številke kreditnih kartic ali osebni podatki.
